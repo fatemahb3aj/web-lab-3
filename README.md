@@ -14,3 +14,5 @@ This is Web Lab 3. It manages student data using Node.js and ES6 JavaScript.
 
 1. **Node Portable ZIP Path:** My terminal couldn't find Node at first because it was extracted from a ZIP folder without system installation. I fixed this by getting help from ai that is why i am a little late for the submission and also to have package.json as well.
 2. **ES Module Imports:** Using import and export threw an error in Node.js. I solved this by adding "type": "module" in package.json so Node recognizes ES module syntax.
+
+3.**Writng The Codes:** Since this is my first time writing codes in javaScript it was a little hard on me to write it but i tried my best since it's a little bit similiar with java anyway i used AI to help me whenever i got stuck.
